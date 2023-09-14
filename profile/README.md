@@ -23,5 +23,3 @@ We offer a variety of services to help businesses succeed in the digital age:
 Thank you for considering Neura Bridge for your technology consulting needs. We look forward to the possibility of working with you and helping your business succeed in the digital era.
 
 ---
-
-Feel free to further customize this section or the entire README to match your organization's branding and style preferences.
